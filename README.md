@@ -1,4 +1,5 @@
-# IEEE-Recruitment-Project
+# Side_Project_Report
+
 # Wine Quality Analysis using NumPy and Pandas
 
 This Python script analyzes the quality of white wine using the NumPy and Pandas libraries. The analysis includes calculating the average, standard deviation, minimum, and maximum values for the pH column of the wine dataset. The analysis also includes information on the data type, size, and itemsize of the alcohol column.
